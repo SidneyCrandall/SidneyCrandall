@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World! 👋
+
+- I'm Sidney, and I am currently a student at Nashville Software School. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyCrandall&theme=cobalt&show_icons=true)
+
 
 <!--
 **SidneyCrandall/SidneyCrandall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- I'm Sidney, and I am currently a student at Nashville Software School. 
+- I'm Sidney, and I'm a Full Stack Web Developer. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyCrandall&theme=cobalt&show_icons=true)
 
